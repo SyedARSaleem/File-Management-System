@@ -1,1 +1,1 @@
-Developed a C program in a Linux environment to create, delete, and manage files, including user-defined file permissions and encryption/decryption functionalities. Implemented advanced encryption and decryption features to securely manipulate file contents. 
+A C program in a Linux environment to create, delete, and manage files, including user-defined file permissions and encryption/decryption functionalities with implemented advanced encryption and decryption features to securely manipulate file contents. 
